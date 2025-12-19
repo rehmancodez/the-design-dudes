@@ -5,7 +5,9 @@ function Home(){
         <>
         <BannerOne/>
 
-        
+        <h1>
+            Hello World!
+        </h1>
 
         </>
     )
