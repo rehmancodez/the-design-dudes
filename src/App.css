@@ -1,0 +1,104 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  font-family: 'Grotesk', sans-serif;
+
+}
+
+.btss {
+  display: flex;
+  justify-content: space-around;
+  gap: 10px;
+}
+
+.btss button {
+
+  color: rgb(255, 255, 255);
+  background-color: transparent;
+
+
+
+
+  border: 2px solid rgba(247, 78, 134, 0.459);
+  border-radius: 60px;
+  width: 122px;
+  height: 40px;
+}
+
+.collapse ul li a {
+  font-size: small;
+  margin-right: 15px;
+  color: white !important;
+
+}
+
+.header {
+  background-color: black !important;
+}
+
+.header a {
+  color: white !important;
+}
+
+.bg-body-tertiary {
+  background-color: black !important;
+
+}
+
+.banner-1 {
+  background-color: black;
+  color: white;
+}
+
+.phone img {
+  height: 40px;
+}
+
+.phone {
+  display: flex;
+  gap: 20px;
+  border-right: 1px solid white;
+  padding: 0px 30px 0px 0px;
+}
+
+.msg img {
+  height: 40px;
+}
+
+.msg {
+  display: flex;
+  gap: 20px;
+}
+
+.call {
+  display: flex;
+  justify-content: space-between;
+}
+
+.c-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 20px;
+}
+
+.c-1 h1 {
+  font-size: 55px;
+}
+
+.c-0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 80px;
+  height: 585px;
+
+}
+
+/* 
+ background: linear-gradient(
+  90deg,
+  rgba(255, 106, 60, 1) 0%,
+  rgba(255, 0, 117, 1) 50%,
+  rgba(143, 0, 255, 1) 100%
+); */
