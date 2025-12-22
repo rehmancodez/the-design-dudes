@@ -50,7 +50,7 @@ function BannerOne() {
                         </div>
                         <div className="col-lg-6">
                             <div className="c-pic">
-                              <img src={banner} alt="phones"></img>
+                                <img src={banner} alt="phones"></img>
 
 
 

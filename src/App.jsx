@@ -1,6 +1,7 @@
 import { Routes, Route, BrowserRouter } from "react-router-dom";
-import Nav from "./pages/Nav";
+
 import Home from "./pages/Home";
+import Nav from "./pages/Nav";
 
 
 
@@ -10,10 +11,10 @@ function App() {
   return (
     <>
       <BrowserRouter>
-        <Nav />
+      <Nav/>
         <Routes>
 
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<Home/>} />
 
         </Routes>
       </BrowserRouter>
