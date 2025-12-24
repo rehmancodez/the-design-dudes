@@ -5,7 +5,7 @@ function BannerTwo() {
 
     return (
         <>
-            <div className='container-fluid black-olive'>
+            <div className='container-fluid black-olive d-none d-sm-block'>
                 <div className='container pt-3 pb-3'>
                     <div className='row'>
                         <div className='col-lg-2'>

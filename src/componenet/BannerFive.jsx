@@ -4,7 +4,7 @@ import laptop from '../assets/images/bannerfivepic.png';
 function BannerFive() {
     return (
         <>
-            <div className="container-fluid black pt-5">
+            <div className="container-fluid black-two pt-5">
                 <div className="container pt-5">
                     <div className="row">
                         <div className="col-lg-6">

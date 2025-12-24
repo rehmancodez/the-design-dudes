@@ -7,6 +7,10 @@ import BannerSix from "../componenet/BannerSix";
 import BannerSeven from "../componenet/BannerSeven";
 import BannerEight from "../componenet/BannerEight";
 import BannerNine from "../componenet/BannerNine";
+import BannerTen from "../componenet/BannerTen";
+import BannerEle from "../componenet/BannerEle";
+import BannerTwe from "../componenet/BannerTwe";
+
 
 
 function Home() {
@@ -21,6 +25,12 @@ function Home() {
             <BannerSeven/>
             <BannerEight/>
             <BannerNine/>
+            <BannerTen/>
+            <BannerEle/>
+            <BannerTwe/>
+            
+            
+
             
 
 
