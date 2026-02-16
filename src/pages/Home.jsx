@@ -1,17 +1,15 @@
-import BannerOne from "../components/BannerOne.js";
-import BannerTwo from "../components/BannerTwo.jsx";
-import BannerThree from "../components/BannerThree.js";
-import BannerFour from "../components/BannerFour.jsx";
-import BannerFive from "../components/BannerFive.js";
-import BannerSix from "../components/BannerSix.js";
-import BannerSeven from "../components/BannerSeven.js";
-import BannerEight from "../components/BannerEight.js";
-import BannerNine from "../components/BannerNine.js";
-import BannerTen from "../components/BannerTen.js";
-import BannerEle from "../components/BannerEle.jsx";
-import BannerTwe from "../components/BannerTwe.js";
-
-
+import BannerOne from "../components/BannerOne";
+import BannerTwo from "../components/BannerTwo";
+import BannerThree from "../components/BannerThree";
+import BannerFour from "../components/BannerFour";
+import BannerFive from "../components/BannerFive";
+import BannerSix from "../components/BannerSix";
+import BannerSeven from "../components/BannerSeven";
+import BannerEight from "../components/BannerEight";
+import BannerNine from "../components/BannerNine";
+import BannerTen from "../components/BannerTen";
+import BannerEle from "../components/BannerEle";
+import BannerTwe from "../components/BannerTwe";
 
 function Home() {
     return (

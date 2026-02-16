@@ -13,19 +13,19 @@ import BannerTwe from "../components/BannerTwe";
 function About() {
     return (
         <>
-           
-           
-           
-            <BannerThree />
-            <BannerFour/>
-              <BannerFive/>
-            <BannerSix/>
-            <BannerSeven/>
-            <BannerTwe/>
-            
-            
 
-            
+
+
+            <BannerThree />
+            <BannerFour />
+            <BannerFive />
+            <BannerSix />
+            <BannerSeven />
+            <BannerTwe />
+
+
+
+
 
 
 

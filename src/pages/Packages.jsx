@@ -5,9 +5,6 @@ import BannerFour from "../components/BannerFour";
 
 
 
-import BannerSeven from "../components/BannerSeven";
-
-
 
 function Packages(){
     return(
