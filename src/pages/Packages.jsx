@@ -1,11 +1,11 @@
-import BannerOne from "../componenet/BannerOne";
-import BannerTwo from "../componenet/BannerTwo";
-import BannerThree from "../componenet/BannerThree";
-import BannerFour from "../componenet/BannerFour";
+import BannerOne from "../components/BannerOne";
+import BannerTwo from "../components/BannerTwo";
+import BannerThree from "../components/BannerThree";
+import BannerFour from "../components/BannerFour";
 
 
 
-import BannerSeven from "../componenet/BannerSeven";
+import BannerSeven from "../components/BannerSeven";
 
 
 

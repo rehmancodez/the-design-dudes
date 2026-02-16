@@ -1,8 +1,8 @@
-import BannerSix from "../componenet/BannerSix";
-import BannerSeven from "../componenet/BannerSeven";
-import BannerEight from "../componenet/BannerEight";
-import BannerNine from "../componenet/BannerNine";
-import BannerTen from "../componenet/BannerTen";
+import BannerSix from "../components/BannerSix";
+import BannerSeven from "../components/BannerSeven";
+import BannerEight from "../components/BannerEight";
+import BannerNine from "../components/BannerNine";
+import BannerTen from "../components/BannerTen";
 
 
 

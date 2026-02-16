@@ -1,22 +1,22 @@
-import BannerOne from "../componenet/BannerOne.jsx";
-import BannerTwo from "../componenet/BannerTwo.jsx";
-import BannerThree from "../componenet/BannerThree.jsx";
-import BannerFour from "../componenet/BannerFour.jsx";
-import BannerFive from "../componenet/BannerFive.jsx";
-import BannerSix from "../componenet/BannerSix.jsx";
-import BannerSeven from "../componenet/BannerSeven.jsx";
-import BannerEight from "../componenet/BannerEight.jsx";
-import BannerNine from "../componenet/BannerNine.jsx";
-import BannerTen from "../componenet/BannerTen.jsx";
-import BannerEle from "../componenet/BannerEle.jsx";
-import BannerTwe from "../componenet/BannerTwe.jsx";
+import BannerOne from "../components/BannerOne.js";
+import BannerTwo from "../components/BannerTwo.jsx";
+import BannerThree from "../components/BannerThree.js";
+import BannerFour from "../components/BannerFour.jsx";
+import BannerFive from "../components/BannerFive.js";
+import BannerSix from "../components/BannerSix.js";
+import BannerSeven from "../components/BannerSeven.js";
+import BannerEight from "../components/BannerEight.js";
+import BannerNine from "../components/BannerNine.js";
+import BannerTen from "../components/BannerTen.js";
+import BannerEle from "../components/BannerEle.jsx";
+import BannerTwe from "../components/BannerTwe.js";
 
 
 
 function Home() {
     return (
         <>
-            <BannerOne />
+           <BannerOne />
             <BannerTwo />
             <BannerThree />
             <BannerFour/>

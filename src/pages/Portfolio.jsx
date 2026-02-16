@@ -1,8 +1,8 @@
 
 
-import BannerNine from "../componenet/BannerNine";
-import BannerTen from "../componenet/BannerTen";
-import BannerTwe from "../componenet/BannerTwe";
+import BannerNine from "../components/BannerNine";
+import BannerTen from "../components/BannerTen";
+import BannerTwe from "../components/BannerTwe";
 
 
 
